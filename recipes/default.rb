@@ -1,3 +1,3 @@
-template "/root/.gemrc" do
+template "/etc/gemrc" do
   source 'gemrc.erb'
 end
